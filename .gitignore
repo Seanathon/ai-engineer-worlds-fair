@@ -1,0 +1,14 @@
+# Design-system skill reference (not part of the published app — fonts live in assets/fonts/)
+github-design/
+
+# Personal source notes that fed into profile.md — kept local
+self-portrait-from-vault.md
+personal-conference-talk-selection-brief.md
+
+# OS / tooling cruft
+.DS_Store
+**/.DS_Store
+.repomix/
+.serena/
+.claude/
+node_modules/

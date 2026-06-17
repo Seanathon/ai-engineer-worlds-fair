@@ -1,0 +1,10 @@
+{
+  "_comment": "Your priority tracks. Keep the A-F + none keys; set name/hue/budget to yours. Must agree with the Tracks section in profile.md. hue = 0-360 (OKLCH/HSL); budget = weekly slot target the itinerary aims for.",
+  "A": { "name": "Eval, Observability & Feedback Loop", "hue": 145, "budget": 3 },
+  "B": { "name": "Orchestration & Harness Architecture", "hue": 265, "budget": 2 },
+  "C": { "name": "Agent Security & Trust Boundaries", "hue": 5, "budget": 2 },
+  "D": { "name": "Memory & Generative UI", "hue": 200, "budget": 1 },
+  "E": { "name": "App Platform & Prod LLM Ops", "hue": 35, "budget": 1 },
+  "F": { "name": "Stretch / Wildcard", "hue": 320, "budget": 1 },
+  "none": { "name": "Off-target", "hue": 220, "budget": 0 }
+}
